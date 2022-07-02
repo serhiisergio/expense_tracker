@@ -22,8 +22,8 @@ mini expense tracker in react with props, states and hooks
 
 ### SCREENSHOTS
 
-![homepage](homepageET.png)
-![input](inputET.png)
+![homepage](images/homepageET.png)
+![input](images/inputET.png)
 
 ## STRUCTURE OF THE PROJECT
 
